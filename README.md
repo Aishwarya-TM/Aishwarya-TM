@@ -1,5 +1,5 @@
 
-## Aishwarya here!
+## Aishwarya here! 👋
 - 🔭 I’m currently focused on developing full-stack web applications using the MERN stack and working on personal projects to sharpen my coding skills.
 
 - 🌱 I’m actively learning more about React.js hooks, Node.js middleware, and improving my knowledge of database optimization techniques in MongoDB.
