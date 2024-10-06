@@ -1,8 +1,5 @@
-<!--
-**Aishwarya-TM/Aishwarya-TM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+## Aishwarya here!
 - 🔭 I’m currently focused on developing full-stack web applications using the MERN stack and working on personal projects to sharpen my coding skills.
 
 - 🌱 I’m actively learning more about React.js hooks, Node.js middleware, and improving my knowledge of database optimization techniques in MongoDB.
@@ -16,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 You can reach me at: aishwaryamani2003@gmail.com
 
 - ⚡ Fun fact: I’m passionate about space science and have explored research projects involving the study of soil samples from other planets to uncover valuable elements!
--->
